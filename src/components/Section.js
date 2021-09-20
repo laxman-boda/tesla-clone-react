@@ -53,7 +53,7 @@ const ItemText = styled.div `
 `
 const ButtonGroup = styled.div `
     display:flex;
-    margin-bottom:-15px;
+    margin-bottom:-16px;
     @media (max-width:768px) {
         flex-direction: column;
     }
